@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 OK
 this is a branch another test
+
+this is a nomarl meger dev and master
